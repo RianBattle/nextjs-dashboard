@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///C:/source/repos/_Samples%20and%20Demos/React/NextJs/nextjs-dashboard/app/dashboard/page.tsx"],"sourcesContent":["'use client';\r\n\r\nimport { usePathname } from \"next/navigation\";\r\n\r\nexport default function Page() {\r\n    return (\r\n        <>\r\n            <p>Dashboard Page</p>\r\n            <p>{usePathname()}</p>\r\n        </>\r\n    );\r\n}\r\n"],"names":[],"mappings":";;;;AAEA;AAFA;;;AAIe,SAAS;IACpB,qBACI;;0BACI,6WAAC;0BAAE;;;;;;0BACH,6WAAC;0BAAG,CAAA,GAAA,iQAAA,CAAA,cAAW,AAAD;;;;;;;;AAG1B","debugId":null}},
+    {"offset": {"line": 40, "column": 0}, "map": {"version":3,"sources":["file:///C:/source/repos/_Samples%20and%20Demos/React/NextJs/nextjs-dashboard/node_modules/.pnpm/next%4015.3.2_react-dom%4019.1.0_react%4019.1.0__react%4019.1.0/node_modules/next/src/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = require('../../module.compiled').vendored[\n  'react-ssr'\n].ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":";AAAAA,OAAOC,OAAO,GAAGC,QAAQ,uMAAyBC,QAAQ,CACxD,YACD,CAACC,kBAAkB","ignoreList":[0],"debugId":null}},
+    {"offset": {"line": 47, "column": 0}, "map": {"version":3,"sources":["file:///C:/source/repos/_Samples%20and%20Demos/React/NextJs/nextjs-dashboard/node_modules/.pnpm/next%4015.3.2_react-dom%4019.1.0_react%4019.1.0__react%4019.1.0/node_modules/next/navigation.js"],"sourcesContent":["module.exports = require('./dist/client/components/navigation')\n"],"names":[],"mappings":"AAAA,OAAO,OAAO","ignoreList":[0],"debugId":null}}]
+}

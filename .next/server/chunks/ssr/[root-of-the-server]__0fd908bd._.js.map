@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///C:/source/repos/_Samples%20and%20Demos/React/NextJs/nextjs-dashboard/src/app/_ui/acme-logo.tsx"],"sourcesContent":["import { GlobeAltIcon } from '@heroicons/react/24/outline';\nimport { lusitana } from \"@/src/app/_ui/fonts\";\n\nexport default function AcmeLogo() {\n  return (\n    <div\n      className={`${lusitana.className} flex flex-row items-center leading-none text-white`}\n    >\n      <GlobeAltIcon className=\"h-12 w-12 rotate-[15deg]\" />\n      <p className=\"text-[44px]\">Acme</p>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;AACA;AAAA;;;;AAEe,SAAS;IACtB,qBACE,6WAAC;QACC,WAAW,GAAG,mLAAA,CAAA,WAAQ,CAAC,SAAS,CAAC,mDAAmD,CAAC;;0BAErF,6WAAC,8SAAA,CAAA,eAAY;gBAAC,WAAU;;;;;;0BACxB,6WAAC;gBAAE,WAAU;0BAAc;;;;;;;;;;;;AAGjC","debugId":null}}]
+}
