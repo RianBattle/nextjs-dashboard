@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///C:/source/repos/_Samples%20and%20Demos/React/NextJs/nextjs-dashboard/app/dashboard/loading.tsx"],"sourcesContent":["import DashboardSkeleton from \"@/app/_ui/skeletons\";\r\n\r\nexport default function Loading() {\r\n    return <div>Loading...</div>;\r\n}"],"names":[],"mappings":";;;;;AAEe,SAAS;IACpB,qBAAO,6WAAC;kBAAI;;;;;;AAChB","debugId":null}}]
+}
